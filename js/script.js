@@ -9,7 +9,7 @@ const global = {
   },
 };
 
-const API_KEY = "6e7c6584a69505f1858acfb8568d3f1b";
+const API_KEY = "";
 const API_URL = "https://api.themoviedb.org/3/";
 
 async function displayPopularMovies() {
